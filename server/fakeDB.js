@@ -1,13 +1,13 @@
 export const users = [
   {
-    id: "23131",
+    _id: "23131",
     firstName: "suleman",
     lastName: "ahmad",
     email: "sulemanahmad@gmail.com",
     password: "12345",
   },
   {
-    id: "4232",
+    _id: "4232",
     firstName: "salman",
     lastName: "ahmad",
     email: "salmanahmad@gmail.com",
@@ -25,5 +25,3 @@ export const quotes = [
     by: "4232",
   },
 ];
-
-
